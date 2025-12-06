@@ -1,0 +1,5 @@
+{
+  "name": "อาจารย์สายดำ: AI Image Generator",
+  "description": "เครื่องมือสร้างรูปภาพ (Text-to-Image) สไตล์อาจารย์สายดำ ใช้ AI ที่เก่งที่สุดในการสร้างรูปภาพจากคำสั่งของคุณ.",
+  "requestFramePermissions": []
+}
